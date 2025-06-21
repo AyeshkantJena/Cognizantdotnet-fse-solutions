@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Structures And Algorithm", "Data Structures And Algorithm", "{22C297BA-EFC8-729A-E84C-72BF06EFE00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2App", "Data Structures And Algorithm\Exercise2\Exercise2App.csproj", "{DAF0593C-423E-485A-1789-6952629765E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF0593C-423E-485A-1789-6952629765E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF0593C-423E-485A-1789-6952629765E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF0593C-423E-485A-1789-6952629765E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF0593C-423E-485A-1789-6952629765E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DAF0593C-423E-485A-1789-6952629765E8} = {22C297BA-EFC8-729A-E84C-72BF06EFE00A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A6B56E-CAE8-4A63-9BC2-274E5F7DA2B6}
+	EndGlobalSection
+EndGlobal
