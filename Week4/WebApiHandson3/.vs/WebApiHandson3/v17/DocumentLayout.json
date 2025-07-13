@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|c:\\users\\kiit\\source\\repos\\webapihandson3\\webapihandson3\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCF21E6-6EEF-45B8-85B2-1D291426FE1B}|WebApiHandson3\\WebApiHandson3.csproj|solutionrelative:webapihandson3\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApiHandson3\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:18:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Program.cs",
+              "RelativeToolTip": "WebApiHandson3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:12:25.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "WebApiHandson3\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:12:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "WebApiHandson3\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:11:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApiHandson3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:11:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiHandson3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:10:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "WebApiHandson3\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\WebApiHandson3\\WebApiHandson3\\Models\\Skill.cs",
+              "RelativeToolTip": "WebApiHandson3\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:10:37.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

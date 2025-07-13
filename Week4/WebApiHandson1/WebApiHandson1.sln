@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiHandson1", "WebApiHandson1\WebApiHandson1.csproj", "{AB058086-1D23-4516-A4C8-21E5B82FE32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB058086-1D23-4516-A4C8-21E5B82FE32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB058086-1D23-4516-A4C8-21E5B82FE32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB058086-1D23-4516-A4C8-21E5B82FE32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB058086-1D23-4516-A4C8-21E5B82FE32E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4309713E-C605-4912-A9D6-EB0042BFB5F2}
+	EndGlobalSection
+EndGlobal
